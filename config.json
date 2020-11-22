@@ -1,0 +1,23 @@
+{ 
+    "prefix": ";",
+    "colorInfo": "feca57",
+    "colorSuccess": "1dd1a1",
+    "colorDanger": "ff6b6b",
+    "ip": "play.lunarcraft.xyz",
+    "inviteLink": "https://discord.gg/Z9P3WtavxQ",
+    "acceptingApplicants": false,
+    "timezone": "ASIA/MANILA",
+    "timeFormat": "MMM DD, YYYY hh:mmA",
+    "creatorTag": "MrBoxie#3899",
+    "creatorID": "244705771638620161",
+    "securityShield": "https://cdn.discordapp.com/attachments/480522109135749133/482000555208605707/shield-ok-icon.png",
+    "broadcastChannelID": "778566119911981077",
+    "logChannelID": "780151335520829451",
+    "botChannelID": "778668923620818964",
+    "bugChannelID": "478818425100304385",
+    "nsfwChannelID": "780154998264037427",
+    "testChannelID": "480144364891406347",
+    "officialGuildID": "778565338064617495",
+    "notOfficial": "You can't use this command in this server.",
+    "noPermission": "You don't have permission to use this command!"
+}
