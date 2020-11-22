@@ -1,0 +1,33 @@
+{
+  "name": "mcpinoyzone-bot",
+  "version": "1.2.4",
+  "description": "MCPinoyZone Official Discord Bot",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": "10.5.0"
+  },
+  "repository": {
+    "url": "https://github.com/Twiistrz/MCPinoyZone-Bot"
+  },
+  "author": "Twiistrz#8016",
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord-js",
+    "discordbot",
+    "discordjs"
+  ],
+  "dependencies": {
+    "bufferutil": "^3.0.3",
+    "discord.js": "^11.4.2",
+    "fs": "^0.0.2",
+    "kaori": "^1.1.4",
+    "libsodium-wrappers": "^0.7.3",
+    "moment-timezone": "^0.5.21",
+    "os": "^0.1.1",
+    "request": "^2.88.0"
+  }
+}
